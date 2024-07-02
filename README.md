@@ -1,3 +1,3 @@
 # mlops-zoomcamp
 
-MLOps Zoomcamp 2024 Study Repos
+MLOps Zoomcamp-2024 Repo
