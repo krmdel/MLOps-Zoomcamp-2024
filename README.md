@@ -1,3 +1,3 @@
 # mlops-zoomcamp
 
-This is a test
+MLOps Zoomcamp 2024 Study Repos
