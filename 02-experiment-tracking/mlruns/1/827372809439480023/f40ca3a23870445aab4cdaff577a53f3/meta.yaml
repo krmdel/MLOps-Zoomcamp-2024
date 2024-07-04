@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/827372809439480023/f40ca3a23870445aab4cdaff577a53f3/artifacts
+end_time: 1720077611088
+entry_point_name: ''
+experiment_id: '827372809439480023'
+lifecycle_stage: active
+run_id: f40ca3a23870445aab4cdaff577a53f3
+run_name: traveling-shad-287
+run_uuid: f40ca3a23870445aab4cdaff577a53f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720077609678
+status: 3
+tags: []
+user_id: codespace

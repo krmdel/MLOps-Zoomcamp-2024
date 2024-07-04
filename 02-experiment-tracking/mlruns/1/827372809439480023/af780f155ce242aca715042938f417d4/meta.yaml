@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/827372809439480023/af780f155ce242aca715042938f417d4/artifacts
+end_time: 1720076903325
+entry_point_name: ''
+experiment_id: '827372809439480023'
+lifecycle_stage: active
+run_id: af780f155ce242aca715042938f417d4
+run_name: victorious-mouse-231
+run_uuid: af780f155ce242aca715042938f417d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720076900796
+status: 3
+tags: []
+user_id: codespace
